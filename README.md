@@ -13,7 +13,7 @@ A classic Snake game implemented in C++ using Windows console functions like `go
 
 ## 📸 Demo Screenshot
 
-![Snake Game Demo](https://media.geeksforgeeks.org/wp-content/uploads/20230701123219/tail-bite.png)
+![Snake Game Demo](https://media.geeksforgeeks.org/wp-content/uploads/20230701123219/tail-bite.pn)
 
 ## 🚀 How to Run
 
