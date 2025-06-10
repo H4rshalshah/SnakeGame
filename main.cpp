@@ -3,7 +3,6 @@
 #include <windows.h> // gotoxy() aur Sleep() ke liye
 #include <cstdlib>   // rand(), srand()
 #include <ctime>     // time()
-
 using namespace std;
 
 #define MAX_LENGTH 1000 // Snake ki max length
