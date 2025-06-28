@@ -7,6 +7,7 @@ using namespace std;
 
 #define MAX_LENGTH 1000 // Snake ki max length
 
+
 // Directions define kar rahe hain
 const char DIR_UP = 'U';
 const char DIR_DOWN = 'D';
